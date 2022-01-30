@@ -125,5 +125,7 @@ plt.show()
 # Findings
 # We see that the netherlands declares most trades in terms of both volume and value of product_section 5
 # Could product_section_5 perhaps represent gas and oil products (Shell)?
+# My findings are that the Netherlands and Germany are the top traders for this product_section in terms of physical volume. 
+# In this regard it can furtmore be observed that the Netherlands recieves a higher price per kilo than Germany, recieving on average 12.2% more per kilogram.
 ##########
 
